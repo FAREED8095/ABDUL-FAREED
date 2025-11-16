@@ -63,18 +63,15 @@ I'm a developer and tech enthusiast based in **India**, passionate about buildin
 ![Builder.io](https://img.shields.io/badge/Builder.io-000000?style=for-the-badge&logo=builder-dot-io&logoColor=white)
 
 ---
+Focus
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=FAREED8095&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=FAREED8095&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FAREED8095&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true)
-
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=FAREED8095&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
@@ -86,7 +83,5 @@ Advanced RAG-based chatbot with function calling capabilities using LangChain an
 - [View Repository →](https://github.com/yourusername/rag_model_chatbot)
 
 
----
 
-## 🎯 Current Focus
 
