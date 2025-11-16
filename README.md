@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm ABDUL FAREED
 
 ### Generative AI Enthusiast | Full-Stack Developer | Finance & Tech Explorer
 
@@ -85,20 +85,6 @@ Advanced RAG-based chatbot with function calling capabilities using LangChain an
 - **Tech Stack:** Python, LangChain, OpenAI API, Vector Databases
 - [View Repository →](https://github.com/yourusername/rag_model_chatbot)
 
-### 📄 Document Extraction System
-AI-powered document extraction and processing system for structured data retrieval
-- **Tech Stack:** Python, NLP, OCR, Machine Learning
-- [View Repository →](https://github.com/yourusername/document-extraction)
-
-### 🎙️ Voice Agent System
-Real-time voice interaction agent using Deepgram for speech-to-text and text-to-speech
-- **Tech Stack:** Python, Deepgram API, Voice Processing
-- [View Repository →](https://github.com/yourusername/voice-agent)
-
-### 📈 Analytics Dashboard
-Interactive analytics dashboard built with Streamlit for data visualization
-- **Tech Stack:** Python, Streamlit, Pandas, Plotly
-- [View Repository →](https://github.com/yourusername/analytics-dashboard)
 
 ---
 
