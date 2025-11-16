@@ -83,5 +83,13 @@ Advanced RAG-based chatbot with function calling capabilities using LangChain an
 - [View Repository →](https://github.com/yourusername/rag_model_chatbot)
 
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
+
 
 
