@@ -21,7 +21,7 @@ I'm a developer and tech enthusiast based in **India**, passionate about buildin
 - 👯 I'm looking to collaborate on **Generative AI projects** and **Web Development**
 - 💼 Building expertise in **RAG chatbots, REST APIs, and Microservices**
 - 💹 Passionate about **Financial Markets, Trading Indicators, and Stock Analysis**
-- 📫 How to reach me: **your.email@gmail.com**
+- 📫 How to reach me: **fareed8095371@gmail.com**
 
 ---
 
